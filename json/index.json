@@ -1,0 +1,20 @@
+{
+    "description": "Axe Type Weapon", 
+    "image_url": "https://ipfs.io/ipfs/QmNkShEGKfVVvH9DnPNTwSgsW99p8AfUf5o3UFJ3rafFJT", 
+    "name": "TurtleGreenprint",
+    "cost": "301368600", 
+    "Percent_Complete": 0,
+    "Helmet" : "Incomplete",
+    "Sleeves" : "Incomplete",
+    "Gloves" : "Incomplete", 
+    "Chest" : "Incomplete", 
+    "Pants" : "Incomplete", 
+    "Boots" : "Incomplete", 
+    "Strength": 137.5,
+    "Resilience": 150,
+    "Agility" : 43.75,
+    "Speed" : 43.75,
+    "Intellect" : 62.5,
+    "Luck": 8.75,
+    "Crafted_With" : "4-Component"
+}
